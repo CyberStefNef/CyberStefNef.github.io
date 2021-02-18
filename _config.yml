@@ -5,7 +5,7 @@ social_username: my-tech
 github_repo: athena
 github_username: broccolini
 theme_color: black
-remote_theme: internet-de-france/swiss
+remote_theme: jekyller/jasper2
 baseurl: /cyberstefnef_github_io
 defaults:
   - scope:

@@ -6,7 +6,7 @@ github_repo: athena
 github_username: broccolini
 theme_color: black
 remote_theme: CyberStefNef/home
-baseurl: /cyberstefnef_github_io
+baseurl: /cyberstefnef_github_io/home
 defaults:
   - scope:
       path: ''
